@@ -8,6 +8,7 @@ wheels/
 
 # Environment variables
 .env
+.venv
 
 # Data files
 data/
