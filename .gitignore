@@ -11,3 +11,6 @@ wheels/
 
 # Data files
 data/
+
+# Kaggle
+kernel-metadata.json
